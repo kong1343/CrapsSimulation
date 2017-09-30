@@ -37,6 +37,7 @@ public class Die
 	{
 		return "A Die object with roll " + this.getLastRoll();
 
+		
 		// add the following to the end of the above line:
 		// + " " + super.toString()
 	}

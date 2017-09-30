@@ -67,7 +67,6 @@ public class Dice
 	}
 
 	// static methods can go anywhere - but at end is standard
-
 	public static final int NUM_TRIALS = 360;
 
 	public static void main(String[] args)
